@@ -1,0 +1,37 @@
+.Start-body{
+    background-color: #30D169;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Start-questions{
+    font-family: manrope;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 120.6%;
+    color:white;
+    margin-top: 200px;
+    margin-left: -30px;
+}
+
+
+.Black-Start{
+    color: black;
+}
+.Start-start{
+    font-size: 50px;
+    color:#30D169 ;
+}
+.Switch-Start{
+    background-color: #463A3A;
+    width:100px;
+    border-radius: 100%;
+    display: grid;
+    place-items: centre;
+    aspect-ratio: 1;
+    margin-top:250px;
+}

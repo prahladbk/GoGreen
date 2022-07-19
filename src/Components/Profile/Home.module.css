@@ -1,0 +1,9 @@
+
+.offset {
+    transform: translate(-20%, 100%);
+    transition: all 0.5s ease;
+}
+
+.crrct {
+    transform: translate(-20%, -10%);
+}

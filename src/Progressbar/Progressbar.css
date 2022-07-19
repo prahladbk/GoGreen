@@ -1,0 +1,23 @@
+.progress,
+.goal,
+.unit {
+  font-family: "Manrope";
+  font-style: normal;
+  letter-spacing: -0.03em;
+  fill: #0ed154;
+}
+.progress {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 27px;
+}
+.unit {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 27px;
+}
+.goal {
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 120.6%;
+}

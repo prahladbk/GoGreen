@@ -1,0 +1,17 @@
+.icon {
+    color:#B1B1B1;
+    transition: all 0.2s ease;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.icon[data-active="true"] {
+    color:#31D66C;
+
+}
+
+#drawer > * + * {
+    margin-left:50px
+}
+#drawer > a {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}

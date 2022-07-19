@@ -1,0 +1,10 @@
+.form input {
+    @apply rounded-lg  p-3 w-[80%] w-full ;
+}
+.form div {
+    @apply flex justify-center flex-col w-full;
+}
+
+.form label {
+    @apply font-bold text-xl self-start mb-3;
+}

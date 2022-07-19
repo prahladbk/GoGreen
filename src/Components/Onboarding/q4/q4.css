@@ -1,0 +1,102 @@
+.qi-body{
+    background-color: #30D169;
+    height:100vh;
+    width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.qi-h1{
+    font-family: manrope;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 120.6%;
+    color:white;
+    margin-bottom: 100px;
+    /* margin-left: -1px; */
+}
+.qi-zero-div{
+    background-color: #48AC6C;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 0;
+    border-radius: 8px;
+}
+.qi-one-div{
+    margin-top: 45px;
+    background-color: #48AC6C;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 0;
+    border-radius: 8px;
+    
+
+}
+.qi-two-div{
+    margin-top: 45px;
+    background-color: #48AC6C;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 0;
+    border-radius: 8px;
+    
+
+}
+.qi-two{
+    font-family:manrope;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 120.6%;
+    color:white;
+}
+.qi-zero{
+    font-family:manrope;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 120.6%;
+    color:white;
+}
+
+.qi-one{
+    font-family:manrope;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 120.6%;
+    color:white;
+}
+.optional{
+    margin-top: 80px;
+}
+.qi-input{
+    height:30px;
+    border-radius: 5px;
+    width: 300px;
+}
+::-webkit-input-placeholder{
+    font-family:manrope;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 120.6%;
+    color:black;
+}
+.Switch-Start1{
+    background-color: #463A3A;
+    width:100px;
+    border-radius: 100%;
+    display: grid;
+    place-items: centre;
+    aspect-ratio: 1;
+    margin-bottom: 50px;
+}
